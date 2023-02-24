@@ -1,1 +1,3 @@
-# Coding-Portfolio
+## Coding-Portfolio
+
+This software portfolio includes a [code sample](https://github.com/saitohirga/Coding-Portfolio/blob/main/Clear/CSATGEN.py) that generates messages for ticketing systems based on user input. As well as [a Python script](https://github.com/saitohirga/Coding-Portfolio/blob/main/fun/emailinfo.py) that sends an email to a candidate who is taking an amateur radio exam. The email provides details about the exam session, including the exam session PIN, the link to the Zoom session for the exam, the candidate's test time, and instructions on how to attend the exam session. This script finishes by sending a email to the candidate.
